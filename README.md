@@ -18,6 +18,7 @@ King County, WA/USA
 - Data Visualisation
 
 ## Data Cleaning
-Missing values occured in three categorical variable for which an imputation by mode has been applied. 
+Missing values occured in three categorical variables for which an imputation by mode has been applied. 
 
 ## Model Choice
+Linear regression modeling is explored for prices and grade.
