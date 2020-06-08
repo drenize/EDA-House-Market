@@ -8,7 +8,7 @@ This notebook is about predicting house prices in King County, Washington in the
 King County, WA/USA
 
 
-# Data Science Life Cyle
+## Data Science Life Cyle
 - Business Understanding
 - Data Mining
 - Data Cleaning
@@ -17,7 +17,7 @@ King County, WA/USA
 - Predictive Modeling
 - Data Visualisation
 
-# Data Cleaning
+## Data Cleaning
+Missing values occured in three categorical variable for which an imputation by mode has been applied. 
 
-
-# Model Choice
+## Model Choice
