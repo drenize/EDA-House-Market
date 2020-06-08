@@ -19,6 +19,9 @@ King County, WA/USA
 
 ## Data Cleaning
 Missing values occured in three categorical variables for which an imputation by mode has been applied. 
+- **waterfront**: 11% missing values
+- **view**: 0.3% missing values
+- **yr_renovated**: 17.8% missing values
 
 ## Model Choice
 Linear regression modeling is explored for prices and grade.
