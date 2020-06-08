@@ -23,5 +23,10 @@ Missing values occured in three categorical variables for which an imputation by
 - **view**: 0.3% missing values
 - **yr_renovated**: 17.8% missing values
 
+## Data Engineering
+Two variables, previously stored as object data types, were converted to an adequate data type
+- **sqft_basement**
+- **
+
 ## Model Choice
 Linear regression modeling is explored for prices and grade.
