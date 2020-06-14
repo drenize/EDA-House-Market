@@ -2,7 +2,7 @@
 
 This notebook is about predicting house prices in King County, Washington in the context of a data science bootcamp. The project journey goes through all stages of the data science cycle from business understanding, over data cleaning, to delivering predictions. Furthermore, a train-validation-test is implemented as well a multicollinearity check. 
 
-The project aims at comparing real estate object of mansion sized properties (defined as over 10,000sqft in size) in a price category of 3,5M upwards. 
+The project aims at finding the best choice in real estate of mansion sized properties (defined as over 10,000sqft in size) in a price category of 3,5M upwards. 
 
 ![Kind County, Washington](https://48h57c2l31ua3c3fmq1ne58b-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Bellevue-and-Cascades-King-County.jpeg)
 King County, WA/USA
